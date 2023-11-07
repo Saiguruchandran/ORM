@@ -43,8 +43,9 @@ admin.site.register(football_players,football_playersAdmin)
 
 
 ## OUTPUT
+![image](https://github.com/Saiguruchandran/ORM/assets/144870946/d87b7168-794b-4328-b734-c80057f88c4e)
 
-![Screenshot (1)](https://github.com/Saiguruchandran/ORM/assets/144870946/b58acf76-8ab5-4cb8-bcda-58190c9225ed)
+
 
 
 ## RESULT
